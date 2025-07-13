@@ -3,26 +3,27 @@ export * from './education'
 export * from './career'
 
 // personal info
-export const name = '胡宣成'
-export const headline = '基本介绍'
+export const name = '鲜橙多'
+export const headline = '牛逼人'
 export const introduction =
-  "我是上海电机学院的大二学生，喜欢唱，跳，rap,篮球。"
+  "我是上海的学生，喜欢唱，跳，rap,篮球。"
 export const email = '2370984925@qq.com'
-export const githubUsername = 'derekhut'
+export const githubUsername = 'huxuancheng'
 
 // about page
-export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
+export const aboutMeHeadline = '不玩原神，玩codm'
 export const aboutParagraphs = [
-  "Coucou Les Amis! My name is Derek Hu. I'm from Hubei and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
-  'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
-  "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
+  "没啥好写的啊",
+  '略略略',
+  "偷懒这一块",
 ]
 
 // blog
-export const blogHeadLine = "What I've thinking about."
+export const blogHeadLine = "使命召唤大肘子"
 export const blogIntro =
-  "I've written something about AI, programming and life."
-
+  "热点大举4000+"
+  "回调mg42"
+  
 // social links
 export type SocialLinkType = {
   name: string
@@ -35,12 +36,12 @@ export const socialLinks: Array<SocialLinkType> = [
   {
     name: 'Tiktok',
     icon: 'tiktok',
-    href: 'https://www.tiktok.com/@harvard?lang=en',
+    href: 'https://www.douyin.com/',
   },
   {
     name: 'Bilibili',
     icon: 'bilibili',
-    href: 'https://space.bilibili.com/349721082',
+    href: 'https://space.bilibili.com/435829538?spm_id_from=333.337.0.0',
   },
 ]
 
